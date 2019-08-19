@@ -73,7 +73,7 @@ $(function() {
   // 3. countdown SETUP
   $("#countdown").countdown(
     {
-      date: "19 Oct 2019 12:00:00", // countdown target date settings
+      date: "11 Oct 2019 12:00:00", // countdown target date settings
       format: "on"
     },
     function() {}
